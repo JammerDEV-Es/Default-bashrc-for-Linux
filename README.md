@@ -1,6 +1,6 @@
 # How to Restore `PS1` in Your Terminal
 
-If you have accidentally modified the `PS1` value or want to restore it to its default, follow the steps below. This guide will walk you through the process of restoration on Linux systems, including distributions like **Debian** and **Kali Linux**.
+If you have accidentally modified the `PS1` value or want to restore it to its default, follow the steps below. This guide will walk you through the process of restoration on Linux systems.
 
 ---
 
